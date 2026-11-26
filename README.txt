@@ -1,0 +1,1 @@
+GitHub Pages: upload index.html and the stimuli/ folder to the repository root. In Settings > Pages, deploy main branch /(root). Workbook export uses the SheetJS CDN and needs internet. These original generated stimuli are for teaching/demo use, not a validated standardized test.
